@@ -29,13 +29,19 @@ export default function About() {
           </div>
 
           {/* Image Column */}
-          <aside className="lg:w-1/3 flex justify-center lg:justify-end">
-            <img
-              src="/retratopaul3.jpg"
-              alt="Paul3 Portrait"
-              className="w-auto max-w-[220px] lg:max-w-[250px] rounded-xl shadow-lg object-contain"
+      <aside className="lg:w-1/3 flex justify-center lg:justify-end">
+        <figure className="flex flex-col items-center lg:items-end">
+          <img
+            src="/paulelmaschurro.jpg"
+            alt="Paul3 Portrait"
+           className="w-auto max-w-[220px] lg:max-w-[250px] rounded-xl shadow-lg object-contain"
             />
-          </aside>
+      <figcaption className="text-xs text-gray-500 mt-1 italic">
+            Fotografía Fernando Franceschelli - Revista Pausa
+        </figcaption>
+      </figure>
+    </aside>
+
 
         </div>
       </section>
