@@ -27,10 +27,8 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-6 text-center">
           <h2 className="text-4xl font-bold text-gray-800 mb-6">Acerca del Artista</h2>
           <p className="text-gray-600 text-lg md:text-xl mb-8">
-            Paul3 es un artista trans, marrón y neurodivergente, utiliza los pronombres él. 
-            Su práctica se articula principalmente desde el arte conceptual y el uso de objetos readymade. 
-            También trabaja con fotografía, instalación y pintura, explorando lo táctil, lo cotidiano y lo simbólico como formas de interpelación. 
-            Su obra orbita alrededor del género y la salud mental, pero se expande hacia territorios más íntimos.
+          Paul3 es un artista paraguayo, trans, marrón y neurodivergente, utiliza el pronombre él. Su práctica se articula principalmente desde el arte conceptual y el uso de objetos readymade. También trabaja con fotografía, instalación y pintura, explorando lo táctil, lo cotidiano y lo simbólico como formas de interpelación. Su obra orbita alrededor del género y la salud mental, pero se expande hacia territorios más íntimos. 
+
           </p>
           <a
             href="/about"

@@ -41,20 +41,20 @@ export default function Navbar() {
         <div className="lg:hidden fixed inset-0 bg-neutral-400 z-50 p-6">
           <div className="flex justify-between items-center mb-8">
             <Link href="/">
-              <img src="/paul3-logo.png" alt="Paule Logo" className="h-10 w-auto" />
+              <img src="/paulenblanco.png" alt="Paule Logo" className="h-10 w-auto" />
             </Link>
             <button onClick={() => setMobileMenuOpen(false)} className="text-white">
               <XMarkIcon className="h-6 w-6" />
             </button>
           </div>
-          <div className="flex flex-col items-center space-y-6">
-            <Link href="/" className="text-white font-semibold text-lg hover:text-rose-300 transition">
+          <div className="flex flex-col items-left space-y-6">
+            <Link href="/" className="text-neutral-500 font-semibold text-lg hover:text-rose-300 transition">
               Inicio
             </Link>
-            <Link href="/about" className="text-white font-semibold text-lg hover:text-rose-300 transition">
+            <Link href="/about" className="text-neutral-500 font-semibold text-lg hover:text-rose-300 transition">
               Acerca de
             </Link>
-            <Link href="/art" className="text-white font-semibold text-lg hover:text-rose-300 transition">
+            <Link href="/artwork" className="text-neutral-500 font-semibold text-lg hover:text-rose-300 transition">
               Arte
             </Link>
           </div>
