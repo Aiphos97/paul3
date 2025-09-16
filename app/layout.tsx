@@ -18,6 +18,9 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Paul3 - Artista Conceptual",
   description: "Sitio oficial de Paul3, artista conceptual paraguayo que comparte cómo él interpreta la realidad y lo cotidiano.",
+  icons: { 
+    icon: "/paulenblanco.png",
+  },
   openGraph: {
     title: "Paul3 - Artista Conceptual",
     description: "Sitio oficial de Paul3, artista conceptual paraguayo que comparte cómo él interpreta la realidad y lo cotidiano.",
