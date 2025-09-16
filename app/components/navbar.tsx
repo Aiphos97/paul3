@@ -9,14 +9,14 @@ export default function Navbar() {
 
   return (
     <header className="bg-neutral-400 shadow-md">
-      <nav className="max-w-7xl mx-auto flex items-center justify-between p-6">
+      <nav className="max-w-7xl mx-auto flex items-end justify-between p-6">
         {/* Logo */}
         <Link href="/">
           <img src="/paulenblanco.png" alt="Paule Logo" className="h-10 w-auto" />
         </Link>
 
         {/* Desktop Links */}
-        <div className="hidden lg:flex flex-1 justify-endgit commit -m space-x-12">
+        <div className="hidden lg:flex flex-1 justify-end space-x-12">
           <Link href="/" className="text-xl text-white font-semibold hover:text-rose-300 transition">
             Inicio
           </Link>
