@@ -37,7 +37,7 @@ export const metadata: Metadata = {
     "antiracismo",
   ],
   icons: { 
-    icon: "/paulenblanco.png",
+    icon: "/favicon.ico",
   },
   openGraph: {
     title: "Paul3 - Artista Conceptual",

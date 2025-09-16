@@ -16,7 +16,7 @@ export default function Navbar() {
         </Link>
 
         {/* Desktop Links */}
-        <div className="hidden lg:flex flex-1 justify-end space-x-12">
+        <div className="hidden lg:flex flex-1 justify-endgit commit -m space-x-12">
           <Link href="/" className="text-xl text-white font-semibold hover:text-rose-300 transition">
             Inicio
           </Link>
