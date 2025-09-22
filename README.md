@@ -15,5 +15,8 @@ El sitio combina diseño moderno con funcionalidades intuitivas, proporcionando 
 ## 🛠 Tecnologías Utilizadas
 - **Frontend:** [HTML, CSS, Typescript]  
 - **Estilos:** [Tailwind CSS]  
-- **Herramientas:** [ Next.js, React, Tailwind CSS]  
+- **Herramientas:** [ Next.js, React, Tailwind CSS]
+  
+## 🌐 Sitio Web en Vivo
+Puedes ver el sitio en vivo aquí: [www.paul3.art](https://www.paul3.art)
 
