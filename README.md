@@ -1,5 +1,7 @@
 # Paule’s Website
 
+![Paule Logo](public/paulerosado2.png)
+
 ## 📖 Descripción
 **Paule’s Website** es un proyecto web personal/profesional diseñado para dar exposición al artista.  
 El sitio combina diseño moderno con funcionalidades intuitivas, proporcionando una experiencia de usuario fluida y atractiva.
